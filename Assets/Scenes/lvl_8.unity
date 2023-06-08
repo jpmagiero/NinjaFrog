@@ -3302,7 +3302,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5962975800267769254, guid: 7d445678f84513c41a91dfc4c76c6430, type: 3}
       propertyPath: lvlName
-      value: lvl_9
+      value: victory
       objectReference: {fileID: 0}
     - target: {fileID: 5962975800267769261, guid: 7d445678f84513c41a91dfc4c76c6430, type: 3}
       propertyPath: m_Name
