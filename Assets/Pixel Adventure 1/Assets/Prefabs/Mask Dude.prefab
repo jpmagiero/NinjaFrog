@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 459342590522054237}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.151, z: 0}
+  m_LocalPosition: {x: 0.019, y: 0.084, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 459342591289943295}
@@ -75,7 +75,7 @@ GameObject:
   - component: {fileID: 459342591289943290}
   - component: {fileID: 459342591289943291}
   - component: {fileID: 459342591289943284}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Mask Dude
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -236,7 +236,9 @@ MonoBehaviour:
   headPoint: {fileID: 459342590522054238}
   layer:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 1280
+  boxCollider2D: {fileID: 459342591289943288}
+  circleCollider2D: {fileID: 459342591289943284}
 --- !u!58 &459342591289943284
 CircleCollider2D:
   m_ObjectHideFlags: 0

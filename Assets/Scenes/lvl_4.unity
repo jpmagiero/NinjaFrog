@@ -4912,7 +4912,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5602510644850840036, guid: 7ead544bdc6c2a24a82fd52a0df2fcc2, type: 3}
       propertyPath: m_SortingOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5602510644850840037, guid: 7ead544bdc6c2a24a82fd52a0df2fcc2, type: 3}
       propertyPath: m_RootOrder
